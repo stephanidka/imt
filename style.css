@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+input {
+    padding:5px;
+    border-radius:10px;
+    border: 1;
+    width: 160px;
+}
+.height{
+    margin: 2px;
+}
+.weight{
+    margin: 2px;
+}
+button{
+    padding:10px;
+    margin: 20px;
+    /* border-radius:10px;
+    border: 0;
+    width: 180px;
+    color: #212529;
+    opacity: 0.8; */
+}
